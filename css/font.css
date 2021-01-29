@@ -1,0 +1,34 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Tiempos Text Regular';
+}
+span{
+    font-family: 'Montserrat';
+    font-size: smaller;
+}
+.card-title{
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
+.card-text{
+    font-weight: 300;
+    font-size: 15px;
+}
+.montserrat{
+    font-family: 'Montserrat';
+}
+.card-body h3{
+    font-family: 'Montserrat';
+}
+.card-img-top{
+    width: 100%;
+}
+.btn{
+    margin-top: 15px;
+    border-radius: 100px;
+    padding: 13px 20px;
+    min-width: 150px;
+}
+.hr{
+    border-left:6px solid; 
+    height:42px;
+}
